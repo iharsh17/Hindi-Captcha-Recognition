@@ -30,7 +30,7 @@ Run locally
 - Clone the project
 
 ```bash
-  git clone https://github.com/harshRaj2017/Hindi-Captcha-Recognition.git
+  git clone https://github.com/iharsh17/Hindi-Captcha-Recognition.git
 ```
 
 - Go to the project directory
@@ -68,8 +68,9 @@ Image Size : 32x32
 ## Our Team:
 <table>
 <tr>
+     <td align="center"><a href="https://github.com/iharsh17"><img src="https://avatars.githubusercontent.com/u/151653491?v=4" width="100px;" height="100px;" alt="Harsh Raj"/><br /><sub><b>Harsh Raj</b></a></td>
       <td align="center"><a href="https://github.com/harshRaj2017"><img src="https://github.com/harshRaj2017.png" width="100px;" height="100px;" alt="Harsh Raj"/><br /><sub><b>Harsh Raj</b></sub></a></td>
-      <td align="center"><a href="https://github.com/carrotBoiii"><img src="https://github.com/carrotBoiii.png" width="100px;" height="100px;" alt="Swagat Nayak"/><br /><sub><b>Swagat Nayak</b></a></td>
+      
       
 </tr>
 </table>
