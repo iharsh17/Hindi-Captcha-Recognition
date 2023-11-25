@@ -69,7 +69,7 @@ Image Size : 32x32
 <table>
 <tr>
      <td align="center"><a href="https://github.com/iharsh17"><img src="https://avatars.githubusercontent.com/u/151653491?v=4" width="100px;" height="100px;" alt="Harsh Raj"/><br /><sub><b>Harsh Raj</b></a></td>
-      <td align="center"><a href="https://github.com/harshRaj2017"><img src="https://github.com/harshRaj2017.png" width="100px;" height="100px;" alt="Harsh Raj"/><br /><sub><b>Harsh Raj</b></sub></a></td>
+      <td align="center"><a href="https://github.com/harshRaj2017"><img src="https://avatars.githubusercontent.com/u/106911901?v=4" width="100px;" height="100px;" alt="Harsh Raj"/><br /><sub><b>Harsh Raj</b></sub></a></td>
       
       
 </tr>
